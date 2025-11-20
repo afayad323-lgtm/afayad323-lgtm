@@ -36,6 +36,12 @@ Manage tasks with LocalStorage support.
 stats
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afayad323-lgtm&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afayad323-lgtm&layout=compact&theme=transparent)
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afayad323-lgtm&show_icons=true&theme=transparent)
+
+
+
 
 
 📫 Contact Me
