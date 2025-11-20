@@ -33,6 +33,10 @@ Simple and fast currency calculator built with JS.
 
 Manage tasks with LocalStorage support.
 
+stats
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afayad323-lgtm&show_icons=true&theme=transparent)
+
+
 
 📫 Contact Me
 
