@@ -1,66 +1,69 @@
 # 👋 Hi, I'm Ahmed Fayad
 
-🚀 Full Stack Developer in Progress | React • Angular • Node.js | Building Real Projects Every Day
+🚀 Backend Developer in Progress | Node.js • Express • Spring Boot (Learning)  
+💡 Focused on building scalable REST APIs and real-world backend systems
 
 ---
 
 ## 🌟 About Me
 
-💻 Passionate about web development and building real-world applications.
+💻 I'm passionate about backend development and system design.
 
-🔥 Started as a Frontend Developer (HTML, CSS, JavaScript, React)  
-🚀 Currently expanding into Backend Development with Node.js & Express  
-🎯 Also learning Angular to strengthen my frontend skills
+🔥 Started with frontend development (HTML, CSS, JavaScript, React)  
+🚀 Currently focusing on Backend Development with Node.js & Express  
+☕ Also learning Spring Boot to strengthen backend engineering skills
 
-📚 Always learning, always building real projects.
+📚 My goal is to become a strong Backend Engineer who builds production-ready systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend:
-- HTML, CSS, JavaScript
-- React (learning & practice)
-- Angular (currently learning)
-
 ### Backend:
 - Node.js
 - Express.js
-- REST APIs
-- Express Validator
+- RESTful APIs
+- Authentication (JWT)
+- MySQL / Relational Databases
+
+### Learning:
+- Spring Boot
+- System Design Basics
+- Clean Architecture
 
 ### Tools:
 - Git & GitHub
-- VS Code
 - Postman
+- VS Code
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Backend Projects
 
-### 🔹 Banking System (Pure JavaScript)
-Full banking system with:
-- Account creation
-- Deposit / Withdraw / Transfer
-- LocalStorage persistence
+### 🔹 Pharmacy Management System (Node.js + MySQL)
+A complete backend system for managing pharmacy operations:
+- Medicines CRUD
+- Categories & Suppliers management
+- Stock control (increase / decrease)
+- Low stock & expiry tracking
+- Role-based authentication (Admin / User)
 
 ---
 
-### 🔹 Courses API (Node.js + Express)
-RESTful API with:
-- CRUD operations
+### 🔹 Authentication API System
+- User registration & login
+- Password hashing (bcrypt)
+- JWT authentication
+- Protected routes
+- Role-based access control
+
+---
+
+### 🔹 RESTful APIs Practice Projects
+- Clean architecture (controllers, routes, middlewares)
+- Error handling system
 - Input validation
-- Clean architecture (routes & controllers)
-
----
-
-### 🔹 Currency Converter
-Simple JS project for currency calculations.
-
----
-
-### 🔹 To-Do App
-Task manager with LocalStorage support.
+- Async wrapper pattern
 
 ---
 
@@ -68,34 +71,35 @@ Task manager with LocalStorage support.
 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afayad323-lgtm&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afayad323-lgtm&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afayad323-lgtm&layout=compact&theme=transparent)
 
 ---
 
 ## 📚 Current Focus
 
-- Building backend APIs with Node.js & Express
-- Learning Angular for frontend development
-- Connecting frontend with backend (Full Stack)
-- Improving problem-solving & architecture skills
+- Mastering Node.js backend development
+- Building real-world REST APIs
+- Learning Spring Boot (Java backend)
+- Understanding system design fundamentals
+- Writing clean and scalable backend architecture
 
 ---
 
 ## 🎯 Future Goals
 
-- Master Full Stack Development (React + Node + DB)
-- Learn MongoDB & Mongoose
-- Build production-level projects
-- Add Authentication (JWT)
-- Deploy full applications
+- Become a professional Backend Engineer
+- Master Spring Boot + Node.js ecosystem
+- Learn microservices architecture
+- Build production-level scalable systems
+- Deploy real-world backend applications
 
 ---
 
 ## 📫 Contact Me
 
-💬 Open to collaboration and real-world projects
+📧 Email: afayad323@gmail.com  
 
-📧 Email: afayad323@gmail.com
+💬 Open to backend collaboration and real-world projects
 
 ---
 
